@@ -1,4 +1,4 @@
-/trenchbroom/
+
 /source/
 /tools/
 *.PAK
@@ -19,3 +19,4 @@ wads/START.WAD
 history.txt
 LICENSE.txt
 *.prt
+/trenchbroom/
