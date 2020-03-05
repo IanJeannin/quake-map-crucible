@@ -1,0 +1,65 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: movementTest.map
+Output file: movementTest.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+           45 faces
+            8 brushes
+            3 entities
+            1 unique texnames
+            3 texinfo
+
+*** WARNING 00: No wad or _wad key exists in the worldmodel
+Processing hull 0...
+---- Brush_LoadEntity ----
+            7 brushes
+           27 planes
+---- CSGFaces ----
+           39 brushfaces
+           45 csgfaces
+           44 mergedfaces
+---- SolidBSP ----
+           53 split nodes
+           15 solid leafs
+           39 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+           71 leaffaces
+           66 nodefaces
+---- Portalize ----
+           39 vis leafs
+           39 vis clusters
+          102 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-16 16 40), no filling performed.
+Leak file written to movementTest.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+*** WARNING 16: Texture __TB_empty not found
+---- WriteBSPFile ----
+Wrote movementTest.bsp
+           75 planes             1500
+           87 vertexes           1044
+           59 nodes              1416
+            3 texinfo             120
+           72 faces              1440
+          158 clipnodes          1264
+           46 leafs              1288
+           77 marksurfaces        154
+          280 surfedges          1120
+          177 edges               708
+            1 textures              8
+              lightdata             0
+              visdata               0
+              entdata             142
+
+0.070 seconds elapsed
+Peak memory usage: 592506 (0.6M)
