@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 238
 c_noclip: 0
-c_chains: 11024741
-visdatasize:35782  compressed from 44700
+c_chains: 11128727
+visdatasize:35783  compressed from 44700
 Writing Spire.bsp as BSP version 29
-  4.3 seconds elapsed
+  5.0 seconds elapsed
