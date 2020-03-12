@@ -5,7 +5,7 @@ Output file: Spire.bsp
 ---- LoadMapFile ----
          1879 faces
           311 brushes
-          115 entities
+          113 entities
            13 unique texnames
           375 texinfo
 
@@ -53,7 +53,7 @@ Processing hull 0...
           596 vis clusters
          1870 vis portals
 ---- Tjunc ----
-         1963 world edges
+         1964 world edges
          8919 edge points
          2295 edges added by tjunctions
             0 faces added by tjunctions
@@ -63,7 +63,7 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote Spire.bsp
-          798 planes            15960
+          803 planes            16060
          3723 vertexes          44676
          1105 nodes             26520
           333 texinfo           13320
@@ -76,7 +76,7 @@ Wrote Spire.bsp
            13 textures         144736
               lightdata             0
               visdata               0
-              entdata            7624
+              entdata            7492
 
-0.441 seconds elapsed
-Peak memory usage: 17187590 (16.4M)
+0.473 seconds elapsed
+Peak memory usage: 17187494 (16.4M)
