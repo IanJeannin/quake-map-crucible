@@ -63,14 +63,14 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote Spire.bsp
-          803 planes            16060
+          804 planes            16080
          3723 vertexes          44676
          1105 nodes             26520
           333 texinfo           13320
          2813 faces             56260
          3334 clipnodes         26672
           669 leafs             18732
-         3567 marksurfaces       7134
+         3569 marksurfaces       7138
         13549 surfedges         54196
          6858 edges             27432
            13 textures         144736
@@ -78,5 +78,5 @@ Wrote Spire.bsp
               visdata               0
               entdata            7492
 
-0.558 seconds elapsed
-Peak memory usage: 17187494 (16.4M)
+0.436 seconds elapsed
+Peak memory usage: 17187514 (16.4M)

@@ -2534,7 +2534,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "BottomRamp"
-"_tb_id" "19"
+"_tb_id" "10"
 // brush 0
 {
 ( 688 84 -500 ) ( 688 84 -484 ) ( 688 -84 -484 ) 32_grey_2 -16 20 180 1 -1
@@ -2586,7 +2586,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "BottomRamp"
-"_tb_id" "20"
+"_tb_id" "11"
 // brush 0
 {
 ( -1216 84 -380 ) ( -1216 84 -364 ) ( -1216 -84 -364 ) 32_grey_2 16 20 -0 1 1
@@ -2638,7 +2638,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "GroundBasement"
-"_tb_id" "21"
+"_tb_id" "12"
 // brush 0
 {
 ( -112 -0 -484 ) ( -112 1 -484 ) ( -112 1 -356 ) 128_grey_2 -0 44 -0 1 1
@@ -2775,7 +2775,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Elevator"
-"_tb_id" "22"
+"_tb_id" "13"
 }
 // entity 12
 {
@@ -2785,14 +2785,14 @@
 "target" "cyanLeftTrainBottom"
 "wait" "2"
 "angle" "180"
-"_tb_group" "22"
+"_tb_group" "13"
 }
 // entity 13
 {
 "classname" "func_train"
 "targetname" ""
 "target" "cyanLeftTrainBottom"
-"_tb_group" "22"
+"_tb_group" "13"
 // brush 0
 {
 ( 456 -656 -484 ) ( 456 -576 -484 ) ( 456 -576 -480 ) 64_gold_2 -20 -0 180 1 -1
@@ -2820,21 +2820,21 @@
 "target" "cyanLeftTrainTop"
 "wait" "2"
 "angle" "180"
-"_tb_group" "22"
+"_tb_group" "13"
 }
 // entity 15
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Elevator"
-"_tb_id" "23"
+"_tb_id" "14"
 }
 // entity 16
 {
 "classname" "func_train"
 "targetname" ""
 "target" "yellowTrain2"
-"_tb_group" "23"
+"_tb_group" "14"
 // brush 0
 {
 ( -616 576 -504 ) ( -616 496 -504 ) ( -616 496 -508 ) 64_gold_2 -4 -24 -0 1 1
@@ -2861,7 +2861,7 @@
 "targetname" "yellowTrain"
 "target" "yellowTrain2"
 "wait" "2"
-"_tb_group" "23"
+"_tb_group" "14"
 }
 // entity 18
 {
@@ -2870,21 +2870,21 @@
 "targetname" "yellowTrain2"
 "target" "yellowTrain"
 "wait" "2"
-"_tb_group" "23"
+"_tb_group" "14"
 }
 // entity 19
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Elevator"
-"_tb_id" "24"
+"_tb_id" "15"
 }
 // entity 20
 {
 "classname" "func_train"
 "targetname" ""
 "target" "yellowTrainTop"
-"_tb_group" "24"
+"_tb_group" "15"
 // brush 0
 {
 ( -696 -496 -512 ) ( -696 -576 -508 ) ( -696 -576 -512 ) 64_gold_2 44 -28 -0 1 1
@@ -2912,7 +2912,7 @@
 "target" "yellowTrainBottom"
 "wait" "2"
 "angle" "180"
-"_tb_group" "24"
+"_tb_group" "15"
 }
 // entity 22
 {
@@ -2922,29 +2922,29 @@
 "target" "yellowTrainTop"
 "wait" "2"
 "angle" "180"
-"_tb_group" "24"
+"_tb_group" "15"
 }
 // entity 23
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Elevator"
-"_tb_id" "25"
+"_tb_id" "16"
 }
 // entity 24
 {
 "classname" "func_train"
 "targetname" ""
 "target" "cyanTrain"
-"_tb_group" "25"
+"_tb_group" "16"
 // brush 0
 {
-( 455 496 -512 ) ( 455 576 -512 ) ( 455 576 -508 ) 64_gold_2 -20 -28 180 1 -1
-( 455 496 -512 ) ( 455 496 -508 ) ( 535 496 -508 ) 64_gold_2 -17 -28 180 1 -1
-( 535 576 -512 ) ( 455 576 -512 ) ( 455 496 -512 ) 64_gold_2 -17 20 180 1 1
-( 455 496 -508 ) ( 455 576 -508 ) ( 535 576 -508 ) 64_gold_2 -17 20 180 1 1
-( 455 576 -508 ) ( 455 576 -512 ) ( 535 576 -512 ) 64_gold_2 -17 -28 180 1 -1
-( 535 496 -508 ) ( 535 576 -508 ) ( 535 576 -512 ) 64_gold_2 -20 -28 180 1 -1
+( 439 592 -508 ) ( 439 496 -508 ) ( 439 496 -512 ) 64_gold_2 -20 -28 180 1 -1
+( 535 496 -508 ) ( 535 496 -512 ) ( 439 496 -512 ) 64_gold_2 -17 -28 180 1 -1
+( 439 496 -512 ) ( 535 496 -512 ) ( 535 592 -512 ) 64_gold_2 -17 20 180 1 1
+( 535 592 -508 ) ( 535 496 -508 ) ( 439 496 -508 ) 64_gold_2 -17 20 180 1 1
+( 535 592 -512 ) ( 535 592 -508 ) ( 439 592 -508 ) 64_gold_2 -17 -28 180 1 -1
+( 535 592 -512 ) ( 535 496 -512 ) ( 535 496 -508 ) 64_gold_2 -20 -28 180 1 -1
 }
 // brush 1
 {
@@ -2964,7 +2964,7 @@
 "target" "cyanTrain2"
 "wait" "2"
 "angle" "180"
-"_tb_group" "25"
+"_tb_group" "16"
 }
 // entity 26
 {
@@ -2974,21 +2974,21 @@
 "target" "cyanTrain"
 "wait" "2"
 "angle" "180"
-"_tb_group" "25"
+"_tb_group" "16"
 }
 // entity 27
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "26"
+"_tb_id" "17"
 }
 // entity 28
 {
 "classname" "func_train"
 "height" "320"
 "target" "TopFloorTop1"
-"_tb_group" "26"
+"_tb_group" "17"
 // brush 0
 {
 ( -4 540 180 ) ( -4 532 180 ) ( -4 532 -144 ) 64_gold_2 -8 16 -0 1 1
@@ -3015,7 +3015,7 @@
 "targetname" "TopFloorTop1"
 "target" "TopFloorBottom1"
 "wait" "2"
-"_tb_group" "26"
+"_tb_group" "17"
 }
 // entity 30
 {
@@ -3024,21 +3024,21 @@
 "target" "TopFloorTop1"
 "targetname" "TopFloorBottom1"
 "wait" "2"
-"_tb_group" "26"
+"_tb_group" "17"
 }
 // entity 31
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "27"
+"_tb_id" "18"
 }
 // entity 32
 {
 "classname" "func_train"
 "height" "320"
 "target" "TopFloorTop2"
-"_tb_group" "27"
+"_tb_group" "18"
 // brush 0
 {
 ( -84 -620 -144 ) ( -84 -612 -144 ) ( -84 -612 180 ) 64_gold_2 -24 -48 180 1 -1
@@ -3066,7 +3066,7 @@
 "target" "TopFloorBottom2"
 "wait" "2"
 "angle" "180"
-"_tb_group" "27"
+"_tb_group" "18"
 }
 // entity 34
 {
@@ -3076,7 +3076,7 @@
 "targetname" "TopFloorBottom2"
 "wait" "2"
 "angle" "180"
-"_tb_group" "27"
+"_tb_group" "18"
 }
 // entity 35
 {
