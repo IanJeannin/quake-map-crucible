@@ -61,5 +61,5 @@ Wrote movementTest.bsp
               visdata               0
               entdata             142
 
-0.070 seconds elapsed
+0.076 seconds elapsed
 Peak memory usage: 592506 (0.6M)
