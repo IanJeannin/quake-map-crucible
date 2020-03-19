@@ -8,12 +8,12 @@ WARNING: brush entity with mins (457.00 -655.00 -819) maxs (535.00 -577.00 -481)
 WARNING: brush entity with mins (-615.00 497.00 -843) maxs (-537.00 575.00 -505) (func_train) has empty key/value "targetname" ""
 WARNING: brush entity with mins (-695.00 -575.00 -84) maxs (-617.00 -497.00 -50) (func_train) has empty key/value "targetname" ""
 WARNING: brush entity with mins (440.00 497.00 -851.) maxs (534.00 591.00 -509.) (func_train) has empty key/value "targetname" ""
-104 entities read, 0 are lights.
+83 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	2577 solid faces
+	2114 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -29,7 +29,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing Spire.bsp as BSP version 29
-0.197 seconds elapsed
+0.199 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

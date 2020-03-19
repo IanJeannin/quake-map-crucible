@@ -3,59 +3,59 @@ Input file: Spire.map
 Output file: Spire.bsp
 
 ---- LoadMapFile ----
-         1879 faces
-          311 brushes
-          113 entities
-           13 unique texnames
-          375 texinfo
+         1111 faces
+          183 brushes
+           88 entities
+           15 unique texnames
+          332 texinfo
 
 Opened WAD: C:/quake-spire-map/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          297 brushes
-          329 planes
+          166 brushes
+          252 planes
 ---- CSGFaces ----
-         1795 brushfaces
-         1720 csgfaces
-         1368 mergedfaces
+         1009 brushfaces
+         1060 csgfaces
+          973 mergedfaces
 ---- SolidBSP ----
-         2568 split nodes
-         1144 solid leafs
-         1336 empty leafs
-           89 water leafs
+         1872 split nodes
+          774 solid leafs
+         1049 empty leafs
+           50 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5017 leaffaces
-         4805 nodefaces
+         4179 leaffaces
+         3992 nodefaces
 ---- Portalize ----
-         1425 vis leafs
-         1425 vis clusters
-         3987 vis portals
+         1099 vis leafs
+         1099 vis clusters
+         3295 vis portals
 ---- FillOutside ----
-          477 outleafs
+          330 outleafs
 ---- MergeAll ----
-         1381 mergefaces
+         1001 mergefaces
 ---- SolidBSP ----
-         1027 split nodes
-          432 solid leafs
-          562 empty leafs
-           34 water leafs
+          721 split nodes
+          271 solid leafs
+          420 empty leafs
+           31 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         3424 leaffaces
-         2685 nodefaces
+         2795 leaffaces
+         2242 nodefaces
 ---- Portalize ----
-          596 vis leafs
-          596 vis clusters
-         1870 vis portals
+          451 vis leafs
+          451 vis clusters
+         1555 vis portals
 ---- Tjunc ----
-         1964 world edges
-         8919 edge points
-         2295 edges added by tjunctions
+         1499 world edges
+         7081 edge points
+         1784 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -63,20 +63,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote Spire.bsp
-          804 planes            16080
-         3723 vertexes          44676
-         1105 nodes             26520
-          333 texinfo           13320
-         2813 faces             56260
-         3334 clipnodes         26672
-          669 leafs             18732
-         3569 marksurfaces       7138
-        13549 surfedges         54196
-         6858 edges             27432
-           13 textures         144736
+          737 planes            14740
+         3078 vertexes          36936
+          817 nodes             19608
+          276 texinfo           11040
+         2344 faces             46880
+         2717 clipnodes         21736
+          542 leafs             15176
+         2912 marksurfaces       5824
+        11136 surfedges         44544
+         5713 edges             22852
+           15 textures         172024
               lightdata             0
               visdata               0
-              entdata            7492
+              entdata            6632
 
-0.436 seconds elapsed
-Peak memory usage: 17187514 (16.4M)
+0.347 seconds elapsed
+Peak memory usage: 12869572 (12.3M)
