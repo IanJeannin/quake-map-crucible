@@ -1,17 +1,17 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 12 threads
 testlevel = 4
-LoadBSPFile: 'Spire.bsp'
+LoadBSPFile: 'crucibletextures.bsp'
 BSP is version 29
-   449 leafs
-  1544 portals
+   494 leafs
+  1594 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 230
+average leafs visible: 312
 c_noclip: 0
-c_chains: 6879930
-visdatasize:23931  compressed from 25593
-Writing Spire.bsp as BSP version 29
-  2.8 seconds elapsed
+c_chains: 13945202
+visdatasize:28265  compressed from 30628
+Writing crucibletextures.bsp as BSP version 29
+  6.0 seconds elapsed
