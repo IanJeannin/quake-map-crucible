@@ -3,60 +3,60 @@ Input file: crucibletextures.map
 Output file: crucibletextures.bsp
 
 ---- LoadMapFile ----
-         1678 faces
-          279 brushes
-          255 entities
-           26 unique texnames
-          427 texinfo
+         1746 faces
+          290 brushes
+          257 entities
+           27 unique texnames
+          435 texinfo
 
 Opened WAD: C:/quake-spire-map/wads/prototype_1_2.wad
 Opened WAD: C:/quake-spire-map/wads/id1.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          273 brushes
-          281 planes
+          284 brushes
+          309 planes
 ---- CSGFaces ----
-         1642 brushfaces
-         1576 csgfaces
-         1352 mergedfaces
+         1710 brushfaces
+         1630 csgfaces
+         1414 mergedfaces
 ---- SolidBSP ----
-         2585 split nodes
-         1180 solid leafs
-         1315 empty leafs
-           91 water leafs
+         2861 split nodes
+         1287 solid leafs
+         1481 empty leafs
+           94 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5523 leaffaces
-         5283 nodefaces
+         5789 leaffaces
+         5518 nodefaces
 ---- Portalize ----
-         1406 vis leafs
-         1406 vis clusters
-         3895 vis portals
+         1575 vis leafs
+         1575 vis clusters
+         4551 vis portals
 ---- FillOutside ----
-          425 outleafs
+          405 outleafs
 ---- MergeAll ----
-         1375 mergefaces
+         1465 mergefaces
 ---- SolidBSP ----
-          806 split nodes
-          313 solid leafs
-          455 empty leafs
-           39 water leafs
+          881 split nodes
+          335 solid leafs
+          506 empty leafs
+           41 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         3275 leaffaces
-         2617 nodefaces
+         3416 leaffaces
+         2783 nodefaces
 ---- Portalize ----
-          494 vis leafs
-          494 vis clusters
-         1594 vis portals
+          547 vis leafs
+          547 vis clusters
+         1933 vis portals
 ---- Tjunc ----
-         1752 world edges
-         8533 edge points
-         2244 edges added by tjunctions
+         1894 world edges
+         9159 edge points
+         2380 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -64,20 +64,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote crucibletextures.bsp
-          660 planes            13200
-         3463 vertexes          41556
-          842 nodes             20208
-          315 texinfo           12600
-         2653 faces             53060
-         2974 clipnodes         23792
-          531 leafs             14868
-         3311 marksurfaces       6622
-        12858 surfedges         51432
-         6430 edges             25720
-           26 textures         232348
+          725 planes            14500
+         3718 vertexes          44616
+          917 nodes             22008
+          341 texinfo           13640
+         2819 faces             56380
+         3130 clipnodes         25040
+          584 leafs             16352
+         3452 marksurfaces       6904
+        13656 surfedges         54624
+         6829 edges             27316
+           27 textures         263672
               lightdata             0
               visdata               0
-              entdata           17563
+              entdata           17571
 
-0.450 seconds elapsed
-Peak memory usage: 17907978 (17.1M)
+0.471 seconds elapsed
+Peak memory usage: 18883068 (18.0M)
