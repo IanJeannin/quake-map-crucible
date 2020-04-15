@@ -9,8 +9,8 @@ WARNING: entity at (188 188 -40) (item_cells) has empty key/value "wait" ""
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	0 sky faces
-	3440 solid faces
+	21 sky faces
+	3721 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 248 initial lights
@@ -24,13 +24,13 @@ Colored light entities/settings detected: .lit output enabled.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 225732
+lightdatasize: 231716
 Writing crucibletextures.lit
 0 switchable light styles (32 max)
 Writing crucibletextures.bsp as BSP version 29
-0.348 seconds elapsed
+0.343 seconds elapsed
 
 stats:
-12.071417 lights tested, 3.308583 hits per sample point
+11.695337 lights tested, 3.101359 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
