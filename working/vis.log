@@ -3,15 +3,15 @@ running with 12 threads
 testlevel = 4
 LoadBSPFile: 'crucibletextures.bsp'
 BSP is version 29
-   770 leafs
-  2464 portals
+   758 leafs
+  2408 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 374
+average leafs visible: 371
 c_noclip: 0
-c_chains: 31296698
-visdatasize:68063  compressed from 74690
+c_chains: 30702982
+visdatasize:66113  compressed from 72010
 Writing crucibletextures.bsp as BSP version 29
- 12.3 seconds elapsed
+ 12.1 seconds elapsed
