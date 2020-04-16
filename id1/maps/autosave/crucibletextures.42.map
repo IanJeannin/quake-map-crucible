@@ -6744,7 +6744,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "YellowFloor"
-"_tb_id" "1"
+"_tb_id" "191"
 // brush 0
 {
 ( -232 -0 -152 ) ( -174 -174 -24 ) ( -174 -174 -152 ) azfloor1_1 0 16 90 1 -1
@@ -6910,7 +6910,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "YellowRamp"
-"_tb_id" "2"
+"_tb_id" "192"
 // brush 0
 {
 ( -1216 84 56.097014925373514 ) ( -1216 -84 72.097014925373514 ) ( -1216 -84 56.097014925373514 ) metal1_4 -0 -3.90298 -0 1 1
@@ -6989,7 +6989,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "GreenRamp"
-"_tb_id" "3"
+"_tb_id" "193"
 // brush 0
 {
 ( 948.125 -62.375 175.95149253731347 ) ( 948.125 -62.125 175.95149253731347 ) ( 948.125 -62.125 303.95149253731347 ) metal1_4 -0 -4 -0 1 1
@@ -7014,8 +7014,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "GreenRamp"
-"_tb_id" "4"
-"_tb_group" "3"
+"_tb_id" "194"
+"_tb_group" "193"
 // brush 0
 {
 ( 948 -576 -164 ) ( 948 -412 -148 ) ( 948 -576 -148 ) metal1_4 -0 -20 -0 1 1
@@ -7094,7 +7094,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "GreenFloor"
-"_tb_id" "5"
+"_tb_id" "195"
 // brush 0
 {
 ( 84 -580 -144 ) ( 84 -748 -144 ) ( 84 -748 -160 ) azfloor1_1 29.8095 16 180 1.02439 -1
@@ -7137,8 +7137,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "GreenFloor"
-"_tb_id" "6"
-"_tb_group" "5"
+"_tb_id" "196"
+"_tb_group" "195"
 // brush 0
 {
 ( -0 -272 -144 ) ( -0 -304 -16 ) ( -0 -304 -144 ) azfloor1_1 0 16 180 1 -1
@@ -7296,7 +7296,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "BigCircle"
-"_tb_id" "7"
+"_tb_id" "197"
 // brush 0
 {
 ( -142.47887537452158 -146.73048417205328 307.39167455061363 ) ( -189.9767441860603 -1.9219366879625572 307.39167455061363 ) ( -189.9767441860603 -1.9219366879625572 321.54802920639713 ) wizwood1_8 0.63706 -23.4506 -0 3.01686 1.09568
@@ -7323,7 +7323,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OuterWindowWall"
-"_tb_id" "8"
+"_tb_id" "198"
 // brush 0
 {
 ( 916 412 148 ) ( 916 -248 148 ) ( 916 -248 -144 ) wwall1_1 4 -0 180 1 -1
@@ -7380,7 +7380,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OuterWindowWall"
-"_tb_id" "9"
+"_tb_id" "199"
 // brush 0
 {
 ( -948 412 -144 ) ( -948 -248 148 ) ( -948 -248 -144 ) wwall1_1 -22 -0 0 1 1
@@ -7437,7 +7437,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "SmallPillar"
-"_tb_id" "10"
+"_tb_id" "200"
 // brush 0
 {
 ( 508 -196 -112 ) ( 564 -252 16 ) ( 564 -252 -112 ) metal6_2 -48 0 90 1 -1
@@ -7476,7 +7476,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "SmallPillar"
-"_tb_id" "11"
+"_tb_id" "201"
 // brush 0
 {
 ( 564 196 -112 ) ( 508 252 -112 ) ( 508 252 16 ) metal6_2 120 64 90 1 -1
@@ -7515,7 +7515,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "SmallPillar"
-"_tb_id" "12"
+"_tb_id" "202"
 // brush 0
 {
 ( -508 196 -112 ) ( -564 252 -112 ) ( -564 252 16 ) metal6_2 24 -0 270 -1 1
@@ -7554,7 +7554,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "SmallPillar"
-"_tb_id" "13"
+"_tb_id" "203"
 // brush 0
 {
 ( -564 -196 -112 ) ( -508 -252 16 ) ( -508 -252 -112 ) metal6_2 -16 -0 270 -1 1
@@ -8304,7 +8304,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "BigCircle"
-"_tb_id" "14"
+"_tb_id" "204"
 // brush 0
 {
 ( -142.47887537452158 -146.73048417205328 307.39167455061363 ) ( -189.9767441860603 -1.9219366879625572 307.39167455061363 ) ( -189.9767441860603 -1.9219366879625572 321.54802920639713 ) wizwood1_8 0.63706 -23.4506 -0 3.01686 1.09568
@@ -8451,7 +8451,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "15"
+"_tb_id" "205"
 // brush 0
 {
 ( -824 747.06191369606074 320 ) ( -824 740.93808630394028 320 ) ( -824 740.93808630394028 -144 ) tech04_4 -4 -0 -0 1 1
@@ -8485,7 +8485,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "16"
+"_tb_id" "206"
 // brush 0
 {
 ( 840 747.06191369606108 320 ) ( 840 740.93808630394028 320 ) ( 840 740.93808630394028 -144 ) tech04_4 -4 -0 -0 1 1
@@ -8519,7 +8519,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "17"
+"_tb_id" "207"
 // brush 0
 {
 ( -824 -747.06191369606086 320 ) ( -824 -740.93808630394028 -144 ) ( -824 -740.93808630394028 320 ) tech04_4 -4 -0 -0 -1 1
@@ -8553,7 +8553,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "18"
+"_tb_id" "208"
 // brush 0
 {
 ( 840 -747.06191369606108 320 ) ( 840 -740.93808630394028 -144 ) ( 840 -740.93808630394028 320 ) tech04_4 -4 -0 -0 -1 1
@@ -8587,14 +8587,14 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "19"
+"_tb_id" "209"
 }
 // entity 328
 {
 "classname" "func_train"
 "target" "GreenLeft1"
 "speed" "256"
-"_tb_group" "19"
+"_tb_group" "209"
 // brush 0
 {
 ( 840 -738 184 ) ( 840 -736 184 ) ( 840 -736 312 ) tech04_4 -88 4 0 1 1
@@ -8628,14 +8628,14 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "20"
+"_tb_id" "210"
 }
 // entity 330
 {
 "classname" "func_train"
 "target" "GreenRight1"
 "speed" "256"
-"_tb_group" "20"
+"_tb_group" "210"
 // brush 0
 {
 ( 752 740 184 ) ( 752 580 184 ) ( 752 580 176 ) tech04_4 -0 4 -0 1 1
@@ -8669,14 +8669,14 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "21"
+"_tb_id" "211"
 }
 // entity 332
 {
 "classname" "func_train"
 "target" "YellowLeft1"
 "speed" "256"
-"_tb_group" "21"
+"_tb_group" "211"
 // brush 0
 {
 ( -912 740 184 ) ( -912 580 184 ) ( -912 580 176 ) tech04_4 -0 4 -0 1 1
@@ -8710,14 +8710,14 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "22"
+"_tb_id" "212"
 }
 // entity 334
 {
 "classname" "func_train"
 "target" "YellowRight1"
 "speed" "256"
-"_tb_group" "22"
+"_tb_group" "212"
 // brush 0
 {
 ( -824 -740 184 ) ( -824 -738 184 ) ( -824 -738 312 ) tech04_4 40 4 0 1 1
@@ -8751,7 +8751,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "23"
+"_tb_id" "213"
 // brush 0
 {
 ( -2048 -592 172 ) ( -2048 -592 -180 ) ( -2048 -112 -180 ) rock5_2 34.5333 -18.6207 -0 0.944882 0.90625
@@ -8983,8 +8983,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "24"
-"_tb_group" "23"
+"_tb_id" "214"
+"_tb_group" "213"
 // brush 0
 {
 ( -2064 -760 496 ) ( -2064 -744 -264 ) ( -2064 -744 496 ) tech07_1 -80 94.5684 180 1 -1.13095
@@ -9036,8 +9036,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "25"
-"_tb_group" "24"
+"_tb_id" "215"
+"_tb_group" "214"
 // brush 0
 {
 ( -1960 -744 496 ) ( -1960 -736 192 ) ( -1960 -736 496 ) tech04_4 -0 -55.5789 -0 -1 1.40741
@@ -9071,8 +9071,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "26"
-"_tb_group" "23"
+"_tb_id" "216"
+"_tb_group" "213"
 // brush 0
 {
 ( -2064 760 496 ) ( -2064 744 496 ) ( -2064 744 -264 ) tech07_1 -80 94.5684 -0 1 1.13095
@@ -9124,8 +9124,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "27"
-"_tb_group" "26"
+"_tb_id" "217"
+"_tb_group" "216"
 // brush 0
 {
 ( -1960 744 496 ) ( -1960 736 496 ) ( -1960 736 192 ) tech04_4 -0 -55.5789 -0 1 1.40741
@@ -9159,7 +9159,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "28"
+"_tb_id" "218"
 // brush 0
 {
 ( 1884 -112 -180 ) ( 1884 -592 172 ) ( 1884 -592 -180 ) rock5_2 34.5333 -18.6207 -0 0.944882 0.90625
@@ -9391,8 +9391,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "29"
-"_tb_group" "28"
+"_tb_id" "219"
+"_tb_group" "218"
 // brush 0
 {
 ( 1884 -760 -264 ) ( 1884 -744 -264 ) ( 1884 -744 496 ) tech07_1 -80 94.5684 180 1 -1.13095
@@ -9444,8 +9444,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "30"
-"_tb_group" "29"
+"_tb_id" "220"
+"_tb_group" "219"
 // brush 0
 {
 ( 1952 -744 192 ) ( 1952 -736 192 ) ( 1952 -736 496 ) tech04_4 -0 -55.5789 -0 -1 1.40741
@@ -9479,8 +9479,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "31"
-"_tb_group" "28"
+"_tb_id" "221"
+"_tb_group" "218"
 // brush 0
 {
 ( 1884 760 -264 ) ( 1884 744 496 ) ( 1884 744 -264 ) tech07_1 -80 94.5684 -0 1 1.13095
@@ -9532,8 +9532,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LiftRail"
-"_tb_id" "32"
-"_tb_group" "31"
+"_tb_id" "222"
+"_tb_group" "221"
 // brush 0
 {
 ( 1952 744 192 ) ( 1952 736 496 ) ( 1952 736 192 ) tech04_4 -0 -55.5789 -0 1 1.40741
@@ -9597,7 +9597,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "33"
+"_tb_id" "223"
 // brush 0
 {
 ( 1380 -72 -144 ) ( 1380 92 -144 ) ( 1380 92 -12 ) metal6_2 16 -4 180 1 -1
@@ -9701,7 +9701,7 @@
 {
 "classname" "trigger_teleport"
 "target" "yellowDestination"
-"_tb_group" "33"
+"_tb_group" "223"
 // brush 0
 {
 ( 1391 56 -144 ) ( 1391 56 -20 ) ( 1391 -56 -20 ) trigger -0 -0 180 1 -1
@@ -9731,15 +9731,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "34"
+"_tb_id" "224"
 }
 // entity 353
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "35"
-"_tb_group" "34"
+"_tb_id" "225"
+"_tb_group" "224"
 // brush 0
 {
 ( -920 -496 24 ) ( -920 -572 8 ) ( -920 -572 -0 ) metal1_4 -641.5 472.977 107.526 1.05556 1
@@ -9800,8 +9800,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "36"
-"_tb_group" "34"
+"_tb_id" "226"
+"_tb_group" "224"
 // brush 0
 {
 ( -952 -496 24 ) ( -952 -496 32 ) ( -952 -572 8 ) metal1_4 -23.5507 151.473 17.5256 1 1
@@ -9862,15 +9862,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "37"
+"_tb_id" "227"
 }
 // entity 356
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "38"
-"_tb_group" "37"
+"_tb_id" "228"
+"_tb_group" "227"
 // brush 0
 {
 ( -920 -0 24 ) ( -920 -76 8 ) ( -920 -76 -0 ) metal1_4 -54 6 107.526 1.05556 1
@@ -9931,8 +9931,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "39"
-"_tb_group" "37"
+"_tb_id" "229"
+"_tb_group" "227"
 // brush 0
 {
 ( -952 -0 24 ) ( -952 -0 32 ) ( -952 -76 8 ) metal1_4 -48.5278 -61.8883 17.5256 1 1
@@ -9993,15 +9993,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "40"
+"_tb_id" "230"
 }
 // entity 359
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "41"
-"_tb_group" "40"
+"_tb_id" "231"
+"_tb_group" "230"
 // brush 0
 {
 ( -920 492 24 ) ( -920 416 8 ) ( -920 416 -0 ) metal1_4 -6.10526 -0 -0 1.05556 1
@@ -10062,8 +10062,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "42"
-"_tb_group" "40"
+"_tb_id" "232"
+"_tb_group" "230"
 // brush 0
 {
 ( -952 492 24 ) ( -952 492 32 ) ( -952 416 8 ) metal1_4 -5.69046 -18.0449 17.5256 1 1
@@ -10124,15 +10124,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "43"
+"_tb_id" "233"
 }
 // entity 362
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "44"
-"_tb_group" "43"
+"_tb_id" "234"
+"_tb_group" "233"
 // brush 0
 {
 ( 944 -0 25.900872118277618 ) ( 944 -76 9.9008721182776185 ) ( 944 -76 1.9008721182776185 ) metal1_4 -53.5423 -3.18736 17.5256 1.05556 1
@@ -10193,8 +10193,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "45"
-"_tb_group" "43"
+"_tb_id" "235"
+"_tb_group" "233"
 // brush 0
 {
 ( 912 -0 25.900872118277618 ) ( 912 -0 33.900872118277618 ) ( 912 -76 9.9008721182776185 ) metal1_4 -49.1002 -60.0756 17.5256 1 1
@@ -10255,15 +10255,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "46"
+"_tb_id" "236"
 }
 // entity 365
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "47"
-"_tb_group" "46"
+"_tb_id" "237"
+"_tb_group" "236"
 // brush 0
 {
 ( 944 492 25.900872118277618 ) ( 944 416 9.9008721182776185 ) ( 944 416 1.9008721182776185 ) metal1_4 262.674 468.432 -66.7516 1.05556 1
@@ -10324,8 +10324,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "48"
-"_tb_group" "46"
+"_tb_id" "238"
+"_tb_group" "236"
 // brush 0
 {
 ( 912 492 25.900872118277618 ) ( 912 492 33.900872118277618 ) ( 912 416 9.9008721182776185 ) metal1_4 -6.26288 -16.2322 17.5256 1 1
@@ -10386,7 +10386,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "49"
+"_tb_id" "239"
 // brush 0
 {
 ( -604 -400 104 ) ( -604 -400 120 ) ( -604 -404 120 ) metal1_4 -40 -0 -0 1 1
@@ -10621,7 +10621,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "50"
+"_tb_id" "240"
 // brush 0
 {
 ( -340 -400 104 ) ( -340 -400 120 ) ( -340 -404 120 ) metal1_4 -40 -0 -0 1 1
@@ -10856,7 +10856,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "51"
+"_tb_id" "241"
 // brush 0
 {
 ( 228 -400 104 ) ( 228 -400 120 ) ( 228 -404 120 ) metal1_4 -40 -0 -0 1 1
@@ -11091,7 +11091,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "52"
+"_tb_id" "242"
 // brush 0
 {
 ( 492 -400 104 ) ( 492 -400 120 ) ( 492 -404 120 ) metal1_4 -40 -0 -0 1 1
@@ -11326,7 +11326,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "53"
+"_tb_id" "243"
 // brush 0
 {
 ( 492 400 104 ) ( 492 404 120 ) ( 492 400 120 ) metal1_4 24 -0 180 1 -1
@@ -11561,7 +11561,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "54"
+"_tb_id" "244"
 // brush 0
 {
 ( 228 400 104 ) ( 228 404 120 ) ( 228 400 120 ) metal1_4 24 -0 180 1 -1
@@ -11796,7 +11796,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "55"
+"_tb_id" "245"
 // brush 0
 {
 ( -340 400 104 ) ( -340 404 120 ) ( -340 400 120 ) metal1_4 24 -0 180 1 -1
@@ -12031,7 +12031,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "56"
+"_tb_id" "246"
 // brush 0
 {
 ( -604 400 104 ) ( -604 404 120 ) ( -604 400 120 ) metal1_4 24 -0 180 1 -1
@@ -12266,7 +12266,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "57"
+"_tb_id" "247"
 // brush 0
 {
 ( -604 -48 148 ) ( -604 -47 148 ) ( -604 -48 149 ) wizwood1_3 8 -0 -0 1 1
@@ -12369,7 +12369,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "58"
+"_tb_id" "248"
 // brush 0
 {
 ( -604 48 148 ) ( -604 48 149 ) ( -604 47 148 ) wizwood1_3 8 -0 180 1 -1
@@ -12472,7 +12472,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "59"
+"_tb_id" "249"
 // brush 0
 {
 ( 596 56 124 ) ( 596 56 125 ) ( 596 55 124 ) wizwood1_3 8 -0 180 1 -1
@@ -12575,7 +12575,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "60"
+"_tb_id" "250"
 // brush 0
 {
 ( 596 -56 124 ) ( 596 -55 124 ) ( 596 -56 125 ) wizwood1_3 -56 -0 -0 1 1
@@ -12678,15 +12678,15 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "LowerMetalLining"
-"_tb_id" "61"
+"_tb_id" "251"
 }
 // entity 380
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "62"
-"_tb_group" "61"
+"_tb_id" "252"
+"_tb_group" "251"
 // brush 0
 {
 ( -572 -576 -136 ) ( -572 -576 -135 ) ( -572 -577 -136 ) metal1_4 -57 -4 180 1 -1
@@ -12711,8 +12711,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "63"
-"_tb_group" "62"
+"_tb_id" "253"
+"_tb_group" "252"
 // brush 0
 {
 ( -912 -748 -136 ) ( -912 -748 -135 ) ( -912 -749 -136 ) metal1_4 -0 -0 180 1 -1
@@ -12755,8 +12755,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "64"
-"_tb_group" "61"
+"_tb_id" "254"
+"_tb_group" "251"
 // brush 0
 {
 ( -616 -400 -144 ) ( -616 -400 -143 ) ( -616 -401 -144 ) metal1_4 -0 -0 180 1 -1
@@ -12808,8 +12808,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "65"
-"_tb_group" "61"
+"_tb_id" "255"
+"_tb_group" "251"
 // brush 0
 {
 ( -308 -404 -144 ) ( -308 -404 -143 ) ( -308 -405 -144 ) metal1_4 -59 -4 180 1 -1
@@ -12843,8 +12843,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "66"
-"_tb_group" "61"
+"_tb_id" "256"
+"_tb_group" "251"
 // brush 0
 {
 ( -352 -400 -144 ) ( -352 -400 -143 ) ( -352 -401 -144 ) metal1_4 -0 -0 180 1 -1
@@ -12896,8 +12896,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "67"
-"_tb_group" "61"
+"_tb_id" "257"
+"_tb_group" "251"
 // brush 0
 {
 ( -264 -576 -136 ) ( -264 -576 -135 ) ( -264 -577 -136 ) metal1_4 -0 -0 180 1 -1
@@ -12967,8 +12967,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "68"
-"_tb_group" "61"
+"_tb_id" "258"
+"_tb_group" "251"
 // brush 0
 {
 ( -88 -400 -144 ) ( -88 -400 -143 ) ( -88 -401 -144 ) metal1_4 -0 -0 180 1 -1
@@ -13011,8 +13011,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "69"
-"_tb_group" "61"
+"_tb_id" "259"
+"_tb_group" "251"
 // brush 0
 {
 ( 216 -400 -144 ) ( 216 -400 -143 ) ( 216 -401 -144 ) metal1_4 -0 -0 180 1 -1
@@ -13064,8 +13064,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "70"
-"_tb_group" "61"
+"_tb_id" "260"
+"_tb_group" "251"
 // brush 0
 {
 ( 524 -404 -144 ) ( 524 -404 -143 ) ( 524 -405 -144 ) metal1_4 -59 -4 180 1 -1
@@ -13099,8 +13099,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "71"
-"_tb_group" "61"
+"_tb_id" "261"
+"_tb_group" "251"
 // brush 0
 {
 ( 480 -400 -144 ) ( 480 -400 -143 ) ( 480 -401 -144 ) metal1_4 -0 -0 180 1 -1
@@ -13152,8 +13152,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "72"
-"_tb_group" "61"
+"_tb_id" "262"
+"_tb_group" "251"
 // brush 0
 {
 ( 848 -744 -144 ) ( 848 -744 -143 ) ( 848 -745 -144 ) metal1_4 -0 -0 180 1 -1
@@ -13214,8 +13214,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "73"
-"_tb_group" "61"
+"_tb_id" "263"
+"_tb_group" "251"
 // brush 0
 {
 ( 744 -324 -136 ) ( 744 -324 -135 ) ( 744 -325 -136 ) metal1_4 -33 -4 180 1 -1
@@ -13258,8 +13258,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "74"
-"_tb_group" "61"
+"_tb_id" "264"
+"_tb_group" "251"
 // brush 0
 {
 ( 520 88 -136 ) ( 520 89 -136 ) ( 520 88 -135 ) metal1_4 -0 -4 -0 1 1
@@ -13338,8 +13338,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "75"
-"_tb_group" "61"
+"_tb_id" "265"
+"_tb_group" "251"
 // brush 0
 {
 ( 744 172 -136 ) ( 744 172 -135 ) ( 744 171 -136 ) metal1_4 15 -4 180 1 -1
@@ -13382,8 +13382,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "76"
-"_tb_group" "61"
+"_tb_id" "266"
+"_tb_group" "251"
 // brush 0
 {
 ( 848 744 -144 ) ( 848 745 -144 ) ( 848 744 -143 ) metal1_4 -0 -0 -0 1 1
@@ -13444,8 +13444,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "77"
-"_tb_group" "61"
+"_tb_id" "267"
+"_tb_group" "251"
 // brush 0
 {
 ( 480 400 -144 ) ( 480 401 -144 ) ( 480 400 -143 ) metal1_4 -0 -0 -0 1 1
@@ -13497,8 +13497,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "78"
-"_tb_group" "61"
+"_tb_id" "268"
+"_tb_group" "251"
 // brush 0
 {
 ( 216 400 -144 ) ( 216 401 -144 ) ( 216 400 -143 ) metal1_4 -0 -0 -0 1 1
@@ -13550,8 +13550,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "79"
-"_tb_group" "61"
+"_tb_id" "269"
+"_tb_group" "251"
 // brush 0
 {
 ( 524 404 -144 ) ( 524 405 -144 ) ( 524 404 -143 ) metal1_4 5 -4 -0 1 1
@@ -13585,8 +13585,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "80"
-"_tb_group" "61"
+"_tb_id" "270"
+"_tb_group" "251"
 // brush 0
 {
 ( -264 576 -136 ) ( -264 577 -136 ) ( -264 576 -135 ) metal1_4 -0 -0 -0 1 1
@@ -13656,8 +13656,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "81"
-"_tb_group" "61"
+"_tb_id" "271"
+"_tb_group" "251"
 // brush 0
 {
 ( -88 400 -144 ) ( -88 401 -144 ) ( -88 400 -143 ) metal1_4 0 0 0 1 1
@@ -13691,8 +13691,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "82"
-"_tb_group" "61"
+"_tb_id" "272"
+"_tb_group" "251"
 // brush 0
 {
 ( -352 400 -144 ) ( -352 401 -144 ) ( -352 400 -143 ) metal1_4 -0 -0 -0 1 1
@@ -13744,8 +13744,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "83"
-"_tb_group" "61"
+"_tb_id" "273"
+"_tb_group" "251"
 // brush 0
 {
 ( -308 404 -144 ) ( -308 405 -144 ) ( -308 404 -143 ) metal1_4 5 -4 0 1 1
@@ -13779,8 +13779,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "84"
-"_tb_group" "61"
+"_tb_id" "274"
+"_tb_group" "251"
 // brush 0
 {
 ( -616 400 -144 ) ( -616 401 -144 ) ( -616 400 -143 ) metal1_4 -0 -0 -0 1 1
@@ -13832,8 +13832,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "85"
-"_tb_group" "61"
+"_tb_id" "275"
+"_tb_group" "251"
 // brush 0
 {
 ( -572 576 -136 ) ( -572 577 -136 ) ( -572 576 -135 ) metal1_4 7 -4 -0 1 1
@@ -13858,8 +13858,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "86"
-"_tb_group" "85"
+"_tb_id" "276"
+"_tb_group" "275"
 // brush 0
 {
 ( -912 748 -136 ) ( -912 749 -136 ) ( -912 748 -135 ) metal1_4 -0 -0 -0 1 1
@@ -13902,8 +13902,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "87"
-"_tb_group" "61"
+"_tb_id" "277"
+"_tb_group" "251"
 // brush 0
 {
 ( -800 156 -136 ) ( -800 156 -135 ) ( -800 155 -136 ) metal1_4 -1 -4 180 1 -1
@@ -13946,8 +13946,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "88"
-"_tb_group" "61"
+"_tb_id" "278"
+"_tb_group" "251"
 // brush 0
 {
 ( -524 -88 -144 ) ( -524 -87 -144 ) ( -524 -88 -143 ) metal1_4 0 0 0 1 1
@@ -14026,8 +14026,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "89"
-"_tb_group" "61"
+"_tb_id" "279"
+"_tb_group" "251"
 // brush 0
 {
 ( -800 -324 -136 ) ( -800 -324 -135 ) ( -800 -325 -136 ) metal1_4 -33 -4 180 1 -1
@@ -14070,7 +14070,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "UpperMetalLining"
-"_tb_id" "90"
+"_tb_id" "280"
 // brush 0
 {
 ( -88 348 140 ) ( -88 349 140 ) ( -88 348 141 ) metal1_4 8 -8 -0 1 1
@@ -14086,8 +14086,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "91"
-"_tb_group" "90"
+"_tb_id" "281"
+"_tb_group" "280"
 // brush 0
 {
 ( -572 -576 148 ) ( -572 -576 149 ) ( -572 -577 148 ) metal1_4 -57 24 180 1 -1
@@ -14112,8 +14112,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "92"
-"_tb_group" "91"
+"_tb_id" "282"
+"_tb_group" "281"
 // brush 0
 {
 ( -912 -748 148 ) ( -912 -748 149 ) ( -912 -749 148 ) metal1_4 -0 28 180 1 -1
@@ -14156,8 +14156,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "93"
-"_tb_group" "90"
+"_tb_id" "283"
+"_tb_group" "280"
 // brush 0
 {
 ( -616 -400 140 ) ( -616 -400 141 ) ( -616 -401 140 ) metal1_4 -0 28 180 1 -1
@@ -14209,8 +14209,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "94"
-"_tb_group" "90"
+"_tb_id" "284"
+"_tb_group" "280"
 // brush 0
 {
 ( -308 -404 140 ) ( -308 -404 141 ) ( -308 -405 140 ) metal1_4 -59 24 180 1 -1
@@ -14244,8 +14244,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "95"
-"_tb_group" "90"
+"_tb_id" "285"
+"_tb_group" "280"
 // brush 0
 {
 ( -352 -400 140 ) ( -352 -400 141 ) ( -352 -401 140 ) metal1_4 -0 28 180 1 -1
@@ -14297,8 +14297,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "96"
-"_tb_group" "90"
+"_tb_id" "286"
+"_tb_group" "280"
 // brush 0
 {
 ( -264 -576 148 ) ( -264 -576 149 ) ( -264 -577 148 ) metal1_4 -0 28 180 1 -1
@@ -14368,8 +14368,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "97"
-"_tb_group" "90"
+"_tb_id" "287"
+"_tb_group" "280"
 // brush 0
 {
 ( -88 -400 140 ) ( -88 -400 141 ) ( -88 -401 140 ) metal1_4 -0 28 180 1 -1
@@ -14412,8 +14412,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "98"
-"_tb_group" "90"
+"_tb_id" "288"
+"_tb_group" "280"
 // brush 0
 {
 ( 216 -400 140 ) ( 216 -400 141 ) ( 216 -401 140 ) metal1_4 -0 28 180 1 -1
@@ -14465,8 +14465,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "99"
-"_tb_group" "90"
+"_tb_id" "289"
+"_tb_group" "280"
 // brush 0
 {
 ( 524 -404 140 ) ( 524 -404 141 ) ( 524 -405 140 ) metal1_4 -59 24 180 1 -1
@@ -14500,8 +14500,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "100"
-"_tb_group" "90"
+"_tb_id" "290"
+"_tb_group" "280"
 // brush 0
 {
 ( 480 -400 140 ) ( 480 -400 141 ) ( 480 -401 140 ) metal1_4 -0 28 180 1 -1
@@ -14553,8 +14553,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "101"
-"_tb_group" "90"
+"_tb_id" "291"
+"_tb_group" "280"
 // brush 0
 {
 ( 848 -744 140 ) ( 848 -744 141 ) ( 848 -745 140 ) metal1_4 -0 28 180 1 -1
@@ -14615,8 +14615,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "102"
-"_tb_group" "90"
+"_tb_id" "292"
+"_tb_group" "280"
 // brush 0
 {
 ( 744 -324 148 ) ( 744 -324 149 ) ( 744 -325 148 ) metal1_4 -33 24 180 1 -1
@@ -14659,8 +14659,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "103"
-"_tb_group" "90"
+"_tb_id" "293"
+"_tb_group" "280"
 // brush 0
 {
 ( 520 88 148 ) ( 520 89 148 ) ( 520 88 149 ) metal1_4 -0 24 -0 1 1
@@ -14739,8 +14739,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "104"
-"_tb_group" "90"
+"_tb_id" "294"
+"_tb_group" "280"
 // brush 0
 {
 ( 744 172 148 ) ( 744 172 149 ) ( 744 171 148 ) metal1_4 15 24 180 1 -1
@@ -14783,8 +14783,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "105"
-"_tb_group" "90"
+"_tb_id" "295"
+"_tb_group" "280"
 // brush 0
 {
 ( 848 744 140 ) ( 848 745 140 ) ( 848 744 141 ) metal1_4 -0 28 -0 1 1
@@ -14845,8 +14845,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "106"
-"_tb_group" "90"
+"_tb_id" "296"
+"_tb_group" "280"
 // brush 0
 {
 ( 480 400 140 ) ( 480 401 140 ) ( 480 400 141 ) metal1_4 -0 28 -0 1 1
@@ -14898,8 +14898,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "107"
-"_tb_group" "90"
+"_tb_id" "297"
+"_tb_group" "280"
 // brush 0
 {
 ( 216 400 140 ) ( 216 401 140 ) ( 216 400 141 ) metal1_4 -0 28 -0 1 1
@@ -14951,8 +14951,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "108"
-"_tb_group" "90"
+"_tb_id" "298"
+"_tb_group" "280"
 // brush 0
 {
 ( 524 404 140 ) ( 524 405 140 ) ( 524 404 141 ) metal1_4 5 24 -0 1 1
@@ -14986,8 +14986,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "109"
-"_tb_group" "90"
+"_tb_id" "299"
+"_tb_group" "280"
 // brush 0
 {
 ( -264 576 148 ) ( -264 577 148 ) ( -264 576 149 ) metal1_4 -0 28 -0 1 1
@@ -15057,8 +15057,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "110"
-"_tb_group" "90"
+"_tb_id" "300"
+"_tb_group" "280"
 // brush 0
 {
 ( -88 400 140 ) ( -88 401 140 ) ( -88 400 141 ) metal1_4 -0 28 -0 1 1
@@ -15092,8 +15092,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "111"
-"_tb_group" "90"
+"_tb_id" "301"
+"_tb_group" "280"
 // brush 0
 {
 ( -352 400 140 ) ( -352 401 140 ) ( -352 400 141 ) metal1_4 -0 28 -0 1 1
@@ -15145,8 +15145,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "112"
-"_tb_group" "90"
+"_tb_id" "302"
+"_tb_group" "280"
 // brush 0
 {
 ( -308 404 140 ) ( -308 405 140 ) ( -308 404 141 ) metal1_4 5 24 -0 1 1
@@ -15180,8 +15180,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "113"
-"_tb_group" "90"
+"_tb_id" "303"
+"_tb_group" "280"
 // brush 0
 {
 ( -616 400 140 ) ( -616 401 140 ) ( -616 400 141 ) metal1_4 -0 28 -0 1 1
@@ -15233,8 +15233,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "114"
-"_tb_group" "90"
+"_tb_id" "304"
+"_tb_group" "280"
 // brush 0
 {
 ( -572 576 148 ) ( -572 577 148 ) ( -572 576 149 ) metal1_4 7 24 -0 1 1
@@ -15259,8 +15259,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "115"
-"_tb_group" "114"
+"_tb_id" "305"
+"_tb_group" "304"
 // brush 0
 {
 ( -912 748 148 ) ( -912 749 148 ) ( -912 748 149 ) metal1_4 -0 28 -0 1 1
@@ -15303,8 +15303,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "116"
-"_tb_group" "90"
+"_tb_id" "306"
+"_tb_group" "280"
 // brush 0
 {
 ( -800 156 148 ) ( -800 156 149 ) ( -800 155 148 ) metal1_4 -1 24 180 1 -1
@@ -15347,8 +15347,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "117"
-"_tb_group" "90"
+"_tb_id" "307"
+"_tb_group" "280"
 // brush 0
 {
 ( -524 -88 140 ) ( -524 -87 140 ) ( -524 -88 141 ) metal1_4 -0 28 -0 1 1
@@ -15427,8 +15427,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "118"
-"_tb_group" "90"
+"_tb_id" "308"
+"_tb_group" "280"
 // brush 0
 {
 ( -800 -324 148 ) ( -800 -324 149 ) ( -800 -325 148 ) metal1_4 -33 24 180 1 -1
@@ -15471,7 +15471,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "119"
+"_tb_id" "309"
 // brush 0
 {
 ( 944 -496 25.900872118277618 ) ( 944 -572 9.9008721182776185 ) ( 944 -572 1.9008721182776185 ) metal1_4 -30.1053 1.90087 -0 1.05556 1
@@ -15532,7 +15532,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "120"
+"_tb_id" "310"
 // brush 0
 {
 ( 912 -496 25.900872118277618 ) ( 912 -496 33.900872118277618 ) ( 912 -572 9.9008721182776185 ) metal1_4 -24.1231 -38.7146 17.5256 1 1
@@ -15593,7 +15593,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "121"
+"_tb_id" "311"
 // brush 0
 {
 ( 912 -84 312 ) ( 912 -83 312 ) ( 912 -84 313 ) metal1_4 0 -4 0 1 1
@@ -15636,7 +15636,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "122"
+"_tb_id" "312"
 // brush 0
 {
 ( 912 412 312 ) ( 912 413 312 ) ( 912 412 313 ) metal1_4 -48 -4 -0 1 1
@@ -15679,7 +15679,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "123"
+"_tb_id" "313"
 // brush 0
 {
 ( 912 -84 180 ) ( 912 -83 180 ) ( 912 -84 181 ) metal1_4 -0 -8 -0 1 1
@@ -15722,7 +15722,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "124"
+"_tb_id" "314"
 // brush 0
 {
 ( 912 412 180 ) ( 912 413 180 ) ( 912 412 181 ) metal1_4 -48 -8 -0 1 1
@@ -15765,7 +15765,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "125"
+"_tb_id" "315"
 // brush 0
 {
 ( -952 416 320 ) ( -952 417 320 ) ( -952 416 321 ) metal1_4 -48 -4 -0 1 1
@@ -15808,7 +15808,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "126"
+"_tb_id" "316"
 // brush 0
 {
 ( -952 416 188 ) ( -952 417 188 ) ( -952 416 189 ) metal1_4 -48 -8 -0 1 1
@@ -15851,7 +15851,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "127"
+"_tb_id" "317"
 // brush 0
 {
 ( -952 -80 188 ) ( -952 -79 188 ) ( -952 -80 189 ) metal1_4 -0 -8 -0 1 1
@@ -15894,7 +15894,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "128"
+"_tb_id" "318"
 // brush 0
 {
 ( -952 -80 320 ) ( -952 -79 320 ) ( -952 -80 321 ) metal1_4 -0 -4 -0 1 1
@@ -15937,7 +15937,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "129"
+"_tb_id" "319"
 // brush 0
 {
 ( -572 -464 320 ) ( -572 -463 320 ) ( -572 -464 321 ) metal1_4 4 4 -0 1 1
@@ -16124,7 +16124,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "130"
+"_tb_id" "320"
 // brush 0
 {
 ( -572 464 320 ) ( -572 464 321 ) ( -572 463 320 ) metal1_4 4 4 180 1 -1
@@ -16311,7 +16311,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "131"
+"_tb_id" "321"
 // brush 0
 {
 ( -572 460 180 ) ( -572 461 180 ) ( -572 460 181 ) metal1_4 -4 -0 -0 1 1
@@ -16426,7 +16426,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "132"
+"_tb_id" "322"
 // brush 0
 {
 ( -572 -460 180 ) ( -572 -460 181 ) ( -572 -461 180 ) metal1_4 -4 -0 180 1 -1
@@ -16541,27 +16541,27 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "133"
+"_tb_id" "323"
 }
 // entity 452
 {
 "classname" "item_shells"
 "origin" "-564 336 184"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 453
 {
 "classname" "item_health"
 "origin" "-564 144 184"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 454
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "134"
-"_tb_group" "133"
+"_tb_id" "324"
+"_tb_group" "323"
 // brush 0
 {
 ( -520 192 320 ) ( -520 128 320 ) ( -520 128 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -16577,8 +16577,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "135"
-"_tb_group" "134"
+"_tb_id" "325"
+"_tb_group" "324"
 // brush 0
 {
 ( -520 192 180 ) ( -520 196 180 ) ( -520 196 188 ) metal1_4 -4 -0 180 1 -1
@@ -16621,8 +16621,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "136"
-"_tb_group" "134"
+"_tb_id" "326"
+"_tb_group" "324"
 // brush 0
 {
 ( -520 192 312 ) ( -520 196 312 ) ( -520 196 320 ) metal1_4 -4 4 180 1 -1
@@ -16665,8 +16665,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "137"
-"_tb_group" "133"
+"_tb_id" "327"
+"_tb_group" "323"
 // brush 0
 {
 ( -520 384 320 ) ( -520 320 320 ) ( -520 320 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -16682,8 +16682,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "138"
-"_tb_group" "137"
+"_tb_id" "328"
+"_tb_group" "327"
 // brush 0
 {
 ( -520 384 180 ) ( -520 388 180 ) ( -520 388 188 ) metal1_4 -4 -0 180 1 -1
@@ -16726,8 +16726,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "139"
-"_tb_group" "137"
+"_tb_id" "329"
+"_tb_group" "327"
 // brush 0
 {
 ( -520 384 312 ) ( -520 388 312 ) ( -520 388 320 ) metal1_4 -4 4 180 1 -1
@@ -16770,8 +16770,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "140"
-"_tb_group" "133"
+"_tb_id" "330"
+"_tb_group" "323"
 // brush 0
 {
 ( -256 384 320 ) ( -256 320 320 ) ( -256 320 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -16787,8 +16787,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "141"
-"_tb_group" "140"
+"_tb_id" "331"
+"_tb_group" "330"
 // brush 0
 {
 ( -256 384 180 ) ( -256 388 180 ) ( -256 388 188 ) metal1_4 -4 -0 180 1 -1
@@ -16831,8 +16831,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "142"
-"_tb_group" "140"
+"_tb_id" "332"
+"_tb_group" "330"
 // brush 0
 {
 ( -256 384 312 ) ( -256 388 312 ) ( -256 388 320 ) metal1_4 -4 4 180 1 -1
@@ -16875,8 +16875,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "143"
-"_tb_group" "133"
+"_tb_id" "333"
+"_tb_group" "323"
 // brush 0
 {
 ( -256 192 320 ) ( -256 128 320 ) ( -256 128 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -16892,8 +16892,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "144"
-"_tb_group" "143"
+"_tb_id" "334"
+"_tb_group" "333"
 // brush 0
 {
 ( -256 192 180 ) ( -256 196 180 ) ( -256 196 188 ) metal1_4 -4 -0 180 1 -1
@@ -16936,8 +16936,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "145"
-"_tb_group" "143"
+"_tb_id" "335"
+"_tb_group" "333"
 // brush 0
 {
 ( -256 192 312 ) ( -256 196 312 ) ( -256 196 320 ) metal1_4 -4 4 180 1 -1
@@ -16979,33 +16979,33 @@
 {
 "classname" "item_health"
 "origin" "-300 144 180"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 467
 {
 "classname" "item_shells"
 "origin" "-300 336 180"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 468
 {
 "classname" "item_shells"
 "origin" "-564 -176 184"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 469
 {
 "classname" "item_health"
 "origin" "-564 -368 184"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 470
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "146"
-"_tb_group" "133"
+"_tb_id" "336"
+"_tb_group" "323"
 // brush 0
 {
 ( -520 -320 320 ) ( -520 -384 320 ) ( -520 -384 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17021,8 +17021,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "147"
-"_tb_group" "146"
+"_tb_id" "337"
+"_tb_group" "336"
 // brush 0
 {
 ( -520 -320 180 ) ( -520 -316 180 ) ( -520 -316 188 ) metal1_4 -4 -0 180 1 -1
@@ -17065,8 +17065,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "148"
-"_tb_group" "146"
+"_tb_id" "338"
+"_tb_group" "336"
 // brush 0
 {
 ( -520 -320 312 ) ( -520 -316 312 ) ( -520 -316 320 ) metal1_4 -4 4 180 1 -1
@@ -17109,8 +17109,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "149"
-"_tb_group" "133"
+"_tb_id" "339"
+"_tb_group" "323"
 // brush 0
 {
 ( -520 -128 320 ) ( -520 -192 320 ) ( -520 -192 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17126,8 +17126,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "150"
-"_tb_group" "149"
+"_tb_id" "340"
+"_tb_group" "339"
 // brush 0
 {
 ( -520 -128 180 ) ( -520 -124 180 ) ( -520 -124 188 ) metal1_4 -4 -0 180 1 -1
@@ -17170,8 +17170,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "151"
-"_tb_group" "149"
+"_tb_id" "341"
+"_tb_group" "339"
 // brush 0
 {
 ( -520 -128 312 ) ( -520 -124 312 ) ( -520 -124 320 ) metal1_4 -4 4 180 1 -1
@@ -17213,15 +17213,15 @@
 {
 "classname" "item_shells"
 "origin" "-300 -176 180"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 477
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "152"
-"_tb_group" "133"
+"_tb_id" "342"
+"_tb_group" "323"
 // brush 0
 {
 ( -256 -128 320 ) ( -256 -192 320 ) ( -256 -192 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17237,8 +17237,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "153"
-"_tb_group" "152"
+"_tb_id" "343"
+"_tb_group" "342"
 // brush 0
 {
 ( -256 -128 180 ) ( -256 -124 180 ) ( -256 -124 188 ) metal1_4 60 -0 180 1 -1
@@ -17281,8 +17281,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "154"
-"_tb_group" "152"
+"_tb_id" "344"
+"_tb_group" "342"
 // brush 0
 {
 ( -256 -128 312 ) ( -256 -124 312 ) ( -256 -124 320 ) metal1_4 60 4 180 1 -1
@@ -17324,15 +17324,15 @@
 {
 "classname" "item_health"
 "origin" "-300 -368 180"
-"_tb_group" "133"
+"_tb_group" "323"
 }
 // entity 481
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "155"
-"_tb_group" "133"
+"_tb_id" "345"
+"_tb_group" "323"
 // brush 0
 {
 ( -256 -320 320 ) ( -256 -384 320 ) ( -256 -384 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17348,8 +17348,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "156"
-"_tb_group" "155"
+"_tb_id" "346"
+"_tb_group" "345"
 // brush 0
 {
 ( -256 -320 180 ) ( -256 -316 180 ) ( -256 -316 188 ) metal1_4 -4 -0 180 1 -1
@@ -17392,8 +17392,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "157"
-"_tb_group" "155"
+"_tb_id" "347"
+"_tb_group" "345"
 // brush 0
 {
 ( -256 -320 312 ) ( -256 -316 312 ) ( -256 -316 320 ) metal1_4 -4 4 180 1 -1
@@ -17436,27 +17436,27 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "158"
+"_tb_id" "348"
 }
 // entity 485
 {
 "classname" "item_shells"
 "origin" "532 336 184"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 486
 {
 "classname" "item_health"
 "origin" "532 144 184"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 487
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "159"
-"_tb_group" "158"
+"_tb_id" "349"
+"_tb_group" "348"
 // brush 0
 {
 ( 488 192 180 ) ( 488 128 320 ) ( 488 128 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17472,8 +17472,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "160"
-"_tb_group" "159"
+"_tb_id" "350"
+"_tb_group" "349"
 // brush 0
 {
 ( 488 192 188 ) ( 488 196 180 ) ( 488 196 188 ) metal1_4 -4 -0 180 1 -1
@@ -17516,8 +17516,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "161"
-"_tb_group" "159"
+"_tb_id" "351"
+"_tb_group" "349"
 // brush 0
 {
 ( 488 192 320 ) ( 488 196 312 ) ( 488 196 320 ) metal1_4 -4 4 180 1 -1
@@ -17560,8 +17560,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "162"
-"_tb_group" "158"
+"_tb_id" "352"
+"_tb_group" "348"
 // brush 0
 {
 ( 488 384 180 ) ( 488 320 320 ) ( 488 320 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17577,8 +17577,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "163"
-"_tb_group" "162"
+"_tb_id" "353"
+"_tb_group" "352"
 // brush 0
 {
 ( 488 384 188 ) ( 488 388 180 ) ( 488 388 188 ) metal1_4 -4 -0 180 1 -1
@@ -17621,8 +17621,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "164"
-"_tb_group" "162"
+"_tb_id" "354"
+"_tb_group" "352"
 // brush 0
 {
 ( 488 384 320 ) ( 488 388 312 ) ( 488 388 320 ) metal1_4 -4 4 180 1 -1
@@ -17665,8 +17665,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "165"
-"_tb_group" "158"
+"_tb_id" "355"
+"_tb_group" "348"
 // brush 0
 {
 ( 224 384 180 ) ( 224 320 320 ) ( 224 320 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17682,8 +17682,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "166"
-"_tb_group" "165"
+"_tb_id" "356"
+"_tb_group" "355"
 // brush 0
 {
 ( 224 384 188 ) ( 224 388 180 ) ( 224 388 188 ) metal1_4 -4 -0 180 1 -1
@@ -17726,8 +17726,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "167"
-"_tb_group" "165"
+"_tb_id" "357"
+"_tb_group" "355"
 // brush 0
 {
 ( 224 384 320 ) ( 224 388 312 ) ( 224 388 320 ) metal1_4 -4 4 180 1 -1
@@ -17770,8 +17770,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "168"
-"_tb_group" "158"
+"_tb_id" "358"
+"_tb_group" "348"
 // brush 0
 {
 ( 224 192 180 ) ( 224 128 320 ) ( 224 128 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17787,8 +17787,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "169"
-"_tb_group" "168"
+"_tb_id" "359"
+"_tb_group" "358"
 // brush 0
 {
 ( 224 192 188 ) ( 224 196 180 ) ( 224 196 188 ) metal1_4 -4 -0 180 1 -1
@@ -17831,8 +17831,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "170"
-"_tb_group" "168"
+"_tb_id" "360"
+"_tb_group" "358"
 // brush 0
 {
 ( 224 192 320 ) ( 224 196 312 ) ( 224 196 320 ) metal1_4 -4 4 180 1 -1
@@ -17874,33 +17874,33 @@
 {
 "classname" "item_health"
 "origin" "268 144 180"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 500
 {
 "classname" "item_shells"
 "origin" "268 336 180"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 501
 {
 "classname" "item_shells"
 "origin" "532 -176 184"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 502
 {
 "classname" "item_health"
 "origin" "532 -368 184"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 503
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "171"
-"_tb_group" "158"
+"_tb_id" "361"
+"_tb_group" "348"
 // brush 0
 {
 ( 488 -320 180 ) ( 488 -384 320 ) ( 488 -384 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -17916,8 +17916,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "172"
-"_tb_group" "171"
+"_tb_id" "362"
+"_tb_group" "361"
 // brush 0
 {
 ( 488 -320 188 ) ( 488 -316 180 ) ( 488 -316 188 ) metal1_4 -4 -0 180 1 -1
@@ -17960,8 +17960,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "173"
-"_tb_group" "171"
+"_tb_id" "363"
+"_tb_group" "361"
 // brush 0
 {
 ( 488 -320 320 ) ( 488 -316 312 ) ( 488 -316 320 ) metal1_4 -4 4 180 1 -1
@@ -18004,8 +18004,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "174"
-"_tb_group" "158"
+"_tb_id" "364"
+"_tb_group" "348"
 // brush 0
 {
 ( 488 -128 180 ) ( 488 -192 320 ) ( 488 -192 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -18021,8 +18021,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "175"
-"_tb_group" "174"
+"_tb_id" "365"
+"_tb_group" "364"
 // brush 0
 {
 ( 488 -128 188 ) ( 488 -124 180 ) ( 488 -124 188 ) metal1_4 -4 -0 180 1 -1
@@ -18065,8 +18065,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "176"
-"_tb_group" "174"
+"_tb_id" "366"
+"_tb_group" "364"
 // brush 0
 {
 ( 488 -128 320 ) ( 488 -124 312 ) ( 488 -124 320 ) metal1_4 -4 4 180 1 -1
@@ -18108,15 +18108,15 @@
 {
 "classname" "item_shells"
 "origin" "268 -176 180"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 510
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "177"
-"_tb_group" "158"
+"_tb_id" "367"
+"_tb_group" "348"
 // brush 0
 {
 ( 224 -128 180 ) ( 224 -192 320 ) ( 224 -192 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -18132,8 +18132,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "178"
-"_tb_group" "177"
+"_tb_id" "368"
+"_tb_group" "367"
 // brush 0
 {
 ( 224 -128 188 ) ( 224 -124 180 ) ( 224 -124 188 ) metal1_4 60 -0 180 1 -1
@@ -18176,8 +18176,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "179"
-"_tb_group" "177"
+"_tb_id" "369"
+"_tb_group" "367"
 // brush 0
 {
 ( 224 -128 320 ) ( 224 -124 312 ) ( 224 -124 320 ) metal1_4 60 4 180 1 -1
@@ -18219,15 +18219,15 @@
 {
 "classname" "item_health"
 "origin" "268 -368 180"
-"_tb_group" "158"
+"_tb_group" "348"
 }
 // entity 514
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "180"
-"_tb_group" "158"
+"_tb_id" "370"
+"_tb_group" "348"
 // brush 0
 {
 ( 224 -320 180 ) ( 224 -384 320 ) ( 224 -384 180 ) wizwood1_3 -0 -0 -0 1 1
@@ -18243,8 +18243,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "181"
-"_tb_group" "180"
+"_tb_id" "371"
+"_tb_group" "370"
 // brush 0
 {
 ( 224 -320 188 ) ( 224 -316 180 ) ( 224 -316 188 ) metal1_4 -4 -0 180 1 -1
@@ -18287,8 +18287,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "182"
-"_tb_group" "180"
+"_tb_id" "372"
+"_tb_group" "370"
 // brush 0
 {
 ( 224 -320 320 ) ( 224 -316 312 ) ( 224 -316 320 ) metal1_4 -4 4 180 1 -1
@@ -18331,7 +18331,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "183"
+"_tb_id" "373"
 // brush 0
 {
 ( 148 80 300 ) ( 148 80 301 ) ( 148 79 300 ) metal1_4 8 56 180 1 -1
@@ -18374,7 +18374,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "184"
+"_tb_id" "374"
 // brush 0
 {
 ( 68 160 300 ) ( 68 160 301 ) ( 68 159 300 ) metal1_4 24 56 180 1 -1
@@ -18417,7 +18417,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "185"
+"_tb_id" "375"
 // brush 0
 {
 ( -76 160 300 ) ( -76 160 301 ) ( -76 159 300 ) metal1_4 24 56 180 1 -1
@@ -18460,7 +18460,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "186"
+"_tb_id" "376"
 // brush 0
 {
 ( -152 80 300 ) ( -152 80 301 ) ( -152 79 300 ) metal1_4 -56 56 180 1 -1
@@ -18503,7 +18503,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "187"
+"_tb_id" "377"
 // brush 0
 {
 ( -152 -64 300 ) ( -152 -64 301 ) ( -152 -65 300 ) metal1_4 -8 56 180 1 -1
@@ -18546,7 +18546,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "188"
+"_tb_id" "378"
 // brush 0
 {
 ( -76 -144 300 ) ( -76 -144 301 ) ( -76 -145 300 ) metal1_4 -24 56 180 1 -1
@@ -18589,7 +18589,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "189"
+"_tb_id" "379"
 // brush 0
 {
 ( 68 -144 300 ) ( 68 -144 301 ) ( 68 -145 300 ) metal1_4 -24 56 180 1 -1
@@ -18632,7 +18632,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "190"
+"_tb_id" "380"
 // brush 0
 {
 ( 148 -64 300 ) ( 148 -64 301 ) ( 148 -65 300 ) metal1_4 56 56 180 1 -1
