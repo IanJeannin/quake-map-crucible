@@ -4,33 +4,32 @@ running with 12 threads
 LoadBSPFile: 'crucibletextures.bsp'
 BSP is version 29
 --- LoadEntities ---
-WARNING: entity at (188 188 -40) (item_cells) has empty key/value "wait" ""
-335 entities read, 246 are lights.
+339 entities read, 248 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	81 sky faces
-	7759 solid faces
+	7943 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 246 initial lights
-SetupLights: 246 after surface lights
-SetupLights: 246 after jittering
+SetupLights: 248 initial lights
+SetupLights: 248 after surface lights
+SetupLights: 248 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 246 lights 0 suns in use.
+Final count: 248 lights 0 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 270956
+lightdatasize: 270788
 Writing crucibletextures.lit
 0 switchable light styles (32 max)
 Writing crucibletextures.bsp as BSP version 29
-0.681 seconds elapsed
+0.584 seconds elapsed
 
 stats:
-10.713616 lights tested, 2.786583 hits per sample point
+10.606027 lights tested, 2.722726 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
