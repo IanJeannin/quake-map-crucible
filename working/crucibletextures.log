@@ -77,7 +77,7 @@ Wrote crucibletextures.bsp
            38 textures         288636
               lightdata             0
               visdata               0
-              entdata           27535
+              entdata           27549
 
 0.698 seconds elapsed
 Peak memory usage: 28410542 (27.1M)
