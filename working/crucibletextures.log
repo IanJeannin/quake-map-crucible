@@ -7,7 +7,7 @@ Output file: crucibletextures.bsp
          1102 brushes
           400 entities
            37 unique texnames
-         1745 texinfo
+         1690 texinfo
 
 Opened WAD: C:/quake-spire-map/wads/prototype_1_2.wad
 Opened WAD: C:/quake-spire-map/wads/id1.wad
@@ -18,7 +18,7 @@ Processing hull 0...
 ---- CSGFaces ----
          6267 brushfaces
          5026 csgfaces
-         4499 mergedfaces
+         4485 mergedfaces
 ---- SolidBSP ----
          5728 split nodes
          2524 solid leafs
@@ -28,8 +28,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        11628 leaffaces
-        10842 nodefaces
+        11592 leaffaces
+        10806 nodefaces
 ---- Portalize ----
          3205 vis leafs
          3205 vis clusters
@@ -37,26 +37,26 @@ Processing hull 0...
 ---- FillOutside ----
           792 outleafs
 ---- MergeAll ----
-         4243 mergefaces
+         4227 mergefaces
 ---- SolidBSP ----
-         2280 split nodes
-         1025 solid leafs
-         1211 empty leafs
+         2260 split nodes
+         1008 solid leafs
+         1208 empty leafs
            45 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7456 leaffaces
-         5936 nodefaces
+         7422 leaffaces
+         5908 nodefaces
 ---- Portalize ----
-         1256 vis leafs
-         1256 vis clusters
-         3838 vis portals
+         1253 vis leafs
+         1253 vis clusters
+         3816 vis portals
 ---- Tjunc ----
-         4431 world edges
-        20437 edge points
-         4967 edges added by tjunctions
+         4412 world edges
+        20340 edge points
+         4934 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -65,19 +65,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote crucibletextures.bsp
          1295 planes            25900
-         7902 vertexes          94824
-         2348 nodes             56352
-         1162 texinfo           46480
-         5998 faces            119960
-         5119 clipnodes         40952
-         1317 leafs             36876
-         7516 marksurfaces      15032
-        28784 surfedges        115136
-        14442 edges             57768
+         7859 vertexes          94308
+         2328 nodes             55872
+         1134 texinfo           45360
+         5970 faces            119400
+         5105 clipnodes         40840
+         1314 leafs             36792
+         7482 marksurfaces      14964
+        28642 surfedges        114568
+        14371 edges             57484
            37 textures         266832
               lightdata             0
               visdata               0
               entdata           27568
 
-1.005 seconds elapsed
-Peak memory usage: 38395424 (36.6M)
+1.062 seconds elapsed
+Peak memory usage: 38338480 (36.6M)
